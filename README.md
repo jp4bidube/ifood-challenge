@@ -1,1 +1,1 @@
-![alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/52219768/251830174-504ba448-f128-41db-ae86-18dc19c0dc9d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250110T185954Z&X-Amz-Expires=300&X-Amz-Signature=158da87f7901b5d4477cc48bbba2f98831d4ca3fe36a014d6929552f05f57b3e&X-Amz-SignedHeaders=host)
+![alt text](https://github.com/jp4bidube/ifood-challenge/blob/master/diagram.png?raw=true)
